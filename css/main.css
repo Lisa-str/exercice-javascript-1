@@ -44,6 +44,10 @@ h1 {
   background: var(--yellow-color);
 }
 
+.box.is-active {
+  background-color: var(--blue-color);
+}
+
 .box.toggle-color {
   background: var(--orange-color);
 }

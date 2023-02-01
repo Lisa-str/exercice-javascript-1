@@ -67,3 +67,11 @@ h1 {
 .box.trigger-all-self {
   background: var(--blue-color);
 }
+
+.is-hidden {
+  display: none;
+}
+
+.box.green-box {
+  background: var(--green-color);
+}
